@@ -1,0 +1,8 @@
+# Changelog
+
+## 1.0.0 (2023-10-08)
+
+
+### Features
+
+* initial commit ([0b9d855](https://github.com/gyoge0/sveltekit-static-template-ghpages/commit/0b9d85579201b2972d7ca34ed7ccd530fa44f72f))
