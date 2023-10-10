@@ -42,8 +42,5 @@
     "commitizen": {
       "path": "cz-conventional-changelog"
     }
-  },
-  "dependencies": {
-    "qrcode": "^1.5.3"
   }
 }
