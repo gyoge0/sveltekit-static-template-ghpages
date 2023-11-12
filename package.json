@@ -17,25 +17,25 @@
     "commitlint:edit": "commitlint --edit"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.7.2",
-    "@commitlint/config-conventional": "^17.7.0",
+    "@commitlint/cli": "^17.8.1",
+    "@commitlint/config-conventional": "^17.8.1",
     "@sveltejs/adapter-static": "1.0.0-next.50",
-    "@sveltejs/kit": "^1.25.1",
-    "@typescript-eslint/eslint-plugin": "^6.7.4",
-    "@typescript-eslint/parser": "^6.7.4",
+    "@sveltejs/kit": "^1.27.5",
+    "@typescript-eslint/eslint-plugin": "^6.10.0",
+    "@typescript-eslint/parser": "^6.10.0",
     "commitizen": "^4.3.0",
-    "eslint": "^8.51.0",
+    "eslint": "^8.53.0",
     "eslint-config-prettier": "^8.10.0",
-    "eslint-plugin-svelte": "^2.34.0",
+    "eslint-plugin-svelte": "^2.35.0",
     "husky": "^8.0.3",
     "lint-staged": "^14.0.1",
     "prettier": "^3.0.3",
-    "prettier-plugin-svelte": "^3.0.3",
-    "svelte": "^4.2.1",
-    "svelte-check": "^3.5.2",
+    "prettier-plugin-svelte": "^3.1.0",
+    "svelte": "^4.2.3",
+    "svelte-check": "^3.6.0",
     "tslib": "^2.6.2",
     "typescript": "^5.2.2",
-    "vite": "^4.4.11"
+    "vite": "^4.5.0"
   },
   "config": {
     "commitizen": {
